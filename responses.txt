@@ -1,0 +1,6 @@
+pat yes
+rat no 
+ket no
+jat yes
+fortitude no
+sextopolis yes

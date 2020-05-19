@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=upperLeft\ lowerRight\ content
+comment0.target=Range(int,\ int,\ Cell)
+numComments=1

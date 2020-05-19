@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ sampleMethod()
+comment1.params=o
+comment1.target=void\ print(java.lang.Object)
+comment2.params=s
+comment2.target=void\ print(java.lang.String)
+comment3.params=array
+comment3.target=void\ print(java.lang.Character[])
+numComments=4

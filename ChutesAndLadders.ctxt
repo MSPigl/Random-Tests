@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ChutesAndLadders()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ ChutesAndLadders\r\n
+comment1.params=simulationCount
+comment1.target=void\ runSimulation(int)
+comment1.text=\r\n\ Simulates\ a\ single-player\ game\ of\ Chutes\ and\ Ladders\ a\ given\ number\ of\ times\r\n\ \r\n\ @param\ simulationCount\ the\ number\ of\ times\ to\ run\ the\ simulation\r\n
+comment2.params=
+comment2.target=double\ getAverageSpins()
+comment2.text=\r\n\ Gets\ the\ average\ number\ of\ spins\ it\ takes\ to\ reach\ space\ 100\r\n\ @return\ the\ average\ number\ of\ spins\r\n
+comment3.params=
+comment3.target=double\ getAverageChutes()
+comment3.text=\r\n\ Gets\ the\ average\ number\ of\ chutes\ taken\ before\ reaching\ space\ 100\r\n\ @return\ the\ average\ number\ of\ chutes\r\n
+comment4.params=
+comment4.target=double\ getAverageLadders()
+comment4.text=\r\n\ Gets\ the\ average\ number\ of\ ladders\ taken\ before\ reaching\ space\ 100\r\n\ @return\ the\ average\ number\ of\ ladders\r\n
+comment5.params=
+comment5.target=int\ getMostCommonSpace()
+comment5.text=\r\n\ Gets\ the\ most\ commonly\ occupied\ space\ of\ the\ board\r\n\ @return\ the\ index\ of\ the\ most\ commonly\ visited\ space\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Main\ method\ for\ class\ ChutesAndLadders\r\n\ @param\ args\ array\ of\ command\ line\ arguments\r\n
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NumberCell()
+comment1.params=datatype\ value
+comment1.target=NumberCell(java.lang.Object,\ java.lang.Integer)
+comment2.params=
+comment2.target=void\ zero()
+comment3.params=
+comment3.target=java.lang.Object\ getType()
+comment4.params=type
+comment4.target=void\ setType(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.Integer\ getValue()
+numComments=6

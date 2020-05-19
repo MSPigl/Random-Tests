@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DoubleLList()
+comment1.params=pos
+comment1.target=DoubleLList.Node\ getNodeAt(int)
+comment2.params=entry
+comment2.target=boolean\ add(java.lang.Object)
+comment3.params=entry\ pos
+comment3.target=boolean\ add(java.lang.Object,\ int)
+comment4.params=pos
+comment4.target=java.lang.Object\ remove(int)
+comment5.params=
+comment5.target=void\ clear()
+comment6.params=
+comment6.target=void\ print()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

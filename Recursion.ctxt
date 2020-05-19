@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ recursiveHelper()
+comment1.params=index\ str
+comment1.target=void\ recurse(int,\ java.lang.String)
+comment2.params=n
+comment2.target=int\ thing(int)
+comment3.params=str
+comment3.target=int\ countX(java.lang.String)
+comment4.params=str
+comment4.target=int\ countHi(java.lang.String)
+numComments=5
